@@ -1,0 +1,27 @@
+{
+    "id": "2B6C7F6C",
+    "path": "/cloud/project/R code.R",
+    "project_path": "R code.R",
+    "type": "r_source",
+    "hash": "1066667378",
+    "contents": "",
+    "dirty": false,
+    "created": 1686772210516.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "113,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1686967683,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1686967683450,
+    "read_only": false,
+    "read_only_alternatives": []
+}
